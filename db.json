@@ -33,40 +33,5 @@
     "amountUnit" : "Pc",
     "price" : 59999.99,
     "imageUrl" : ""
-  },
-  "ITEM06" : {
-    "name" : "C4",
-    "category" : "Explosives",
-    "amountUnit" : "Kg",
-    "price" : 3999.99,
-    "imageUrl" : ""
-  },
-  "ITEM07" : {
-    "name" : "Canabis",
-    "category" : "Drugs",
-    "amountUnit" : "Gm",
-    "price" : 99.99,
-    "imageUrl" : ""
-  },
-  "ITEM08" : {
-    "name" : "Car Accident",
-    "category" : "Hits",
-    "amountUnit" : "Person",
-    "price" : 29999.99,
-    "imageUrl" : ""
-  },
-  "ITEM09" : {
-    "name" : "Kidnapping",
-    "category" : "Hits",
-    "amountUnit" : "Person",
-    "price" : 19999.99,
-    "imageUrl" : ""
-  },
-  "ITEM10" : {
-    "name" : "Votes",
-    "category" : "Fraud",
-    "amountUnit" : "Votes",
-    "price" : 4999.99,
-    "imageUrl" : ""
   }
 }
